@@ -12,3 +12,17 @@ C:\Users\hdmdh\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.AP
 C:\Users\hdmdh\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.RazorTargetAssemblyInfo.cache
 C:\Users\hdmdh\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.dll
 C:\Users\hdmdh\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.pdb
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\bin\Debug\netcoreapp2.2\Magnetic.API.deps.json
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\bin\Debug\netcoreapp2.2\Magnetic.API.runtimeconfig.json
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\bin\Debug\netcoreapp2.2\Magnetic.API.runtimeconfig.dev.json
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\bin\Debug\netcoreapp2.2\Magnetic.API.dll
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\bin\Debug\netcoreapp2.2\Magnetic.API.pdb
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.csprojAssemblyReference.cache
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.csproj.CoreCompileInputs.cache
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.RazorAssemblyInfo.cache
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.RazorAssemblyInfo.cs
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.AssemblyInfoInputs.cache
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.AssemblyInfo.cs
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.RazorTargetAssemblyInfo.cache
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.dll
+C:\Users\821312\Desktop\Magnetic\Magnetic.API\obj\Debug\netcoreapp2.2\Magnetic.API.pdb
