@@ -10,8 +10,8 @@ namespace Magnetic.API.Controllers
 {
     // http://localhost:5000/api/values
     [Route("api/[controller]")]
-    [ApiController]
-    public class ValuesController : ControllerBase
+    [ApiController]  // 1. ↑ force attribute routing 2. validate request
+    public class ValuesController : ControllerBase  // inherit from ControllerBase(no view support) enables Action and HttpResponse
     {
         private readonly DataContext _context;
         public ValuesController(DataContext context)
