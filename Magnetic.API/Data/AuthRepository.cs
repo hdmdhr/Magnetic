@@ -67,11 +67,13 @@ namespace Magnetic.API.Data
             using (var hmac = new System.Security.Cryptography.HMACSHA512(passwordSalt))
             {
                 var computedHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-                // for (int i = 0; i < computedHash.Length; i++)
-                //     if (passwordHash[i] != computedHash[i]) return false;
-                // return true;
+
+                for (int i = 0; i < computedHash.Length; i++)
+                    if (passwordHash[i] != computedHash[i]) return false;
+                return true;
                 
-                return passwordHash == computedHash ? true : false;
+                // * cannot use '==' to compare two reference types
+                // return passwordHash == computedHash ? true : false;
             }
         }
     }

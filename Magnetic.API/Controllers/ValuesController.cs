@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Magnetic.API.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace Magnetic.API.Controllers
 {
+    [Authorize]
     // http://localhost:5000/api/values
     [Route("api/[controller]")]
     [ApiController]  // 1. ↑ force attribute routing 2. validate request
@@ -28,6 +30,7 @@ namespace Magnetic.API.Controllers
         }
 
         // GET api/values/5
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetValueById(int id)
         {
